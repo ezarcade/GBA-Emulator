@@ -104,6 +104,7 @@ var games = {
     "monster_force":"Monster Force",
     "mortal_kombat":"Mortal Kombat Advance",
     "m3":"Mother 3",
+    "namco_museum":"Namco Museum",
     "nbaj":"NBA Jam 2002",
     "nesgh1":"NES Greatest Hits 1",
     "nfsu":"Need For Speed - Underground",
