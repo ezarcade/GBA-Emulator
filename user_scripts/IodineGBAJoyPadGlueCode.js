@@ -61,7 +61,7 @@ function keyUp(keyCode) {
 function keyUpPreprocess(e) {
     var keyCode = e.keyCode | 0;
     switch (keyCode | 0) {
-        case 68:
+        case 90:
             lowerVolume();
             break;
         case 82:
