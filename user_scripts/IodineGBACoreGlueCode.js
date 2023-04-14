@@ -58,6 +58,7 @@ var games = {
     "gunstar_super_heroes":"Gunstar Super Heroes",
     "hamtaro_heartbreak":"Hamtaro - Ham-Ham Heartbreak",
     "harry_potter_and_the_chamber_of_secrets":"Harry Potter And The Chamber Of Secrets",
+    "harry_potter_and_the_prisoner_of_askaban":"Harry Potter And The Prisoner Of Askaban",
     "harry_potter_and_the_sorcerers_stone":"Harry Potter And The Sorcerers Stone",
     "hmfmt":"Harvest Moon - Friends Of Mineral Town",
     "hmmfmt":"Harvest Moon - More Friends Of Mineral Town",
